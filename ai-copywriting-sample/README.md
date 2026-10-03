@@ -1,4 +1,4 @@
-**# AI-Assisted Copywriting Sample
+AI-Assisted Copywriting Sample
 
 ## Project Overview
 
