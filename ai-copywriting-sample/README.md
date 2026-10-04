@@ -4,7 +4,7 @@ AI-Assisted Copywriting Sample
 
 This portfolio sample demonstrates how I use generative AI as a drafting tool while applying human judgment to improve brand voice, cultural relevance, accuracy, readability, and audience engagement.
 
-The sample was created for an AI-powered matchmaking yacht event targeting college students and young adults in Los Angeles.
+The sample was created at Ditto AI for an AI-powered matchmaking yacht event targeting college students and young adults in Los Angeles.
 
 > **Portfolio Disclosure:** This is an independently created portfolio sample. It was not published as an official post for any company.
 
@@ -14,7 +14,6 @@ The sample was created for an AI-powered matchmaking yacht event targeting colle
 - **Target Audience:** College students and young adults in Los Angeles
 - **Objective:** Encourage qualified users to apply for an AI-powered yacht matchmaking event
 - **AI Tool:** ChatGPT
-- **My Role:** Prompt development, copy editing, brand-voice adaptation, cultural review, and final approval
 
 ## 1. Original Prompt
 
@@ -42,7 +41,7 @@ The caption should:
 >
 > Spots are limited, so apply now through the link in our bio. Your perfect match might be waiting!
 >
-> #LADating #CollegeDating #YachtParty
+> #Dating #CollegeDating #YachtParty #loveyacht
 
 ## 3. Human-Edited Final Version
 
@@ -59,7 +58,7 @@ The caption should:
 >
 > tag the friend who keeps saying “dating in LA is impossible.”
 >
-> #MeetIRL #LADating #CollegeDating
+> #MeetIRL #Dating #CollegeDating #loveyacht
 
 ## 4. Editing Rationale
 
