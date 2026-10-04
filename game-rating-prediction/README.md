@@ -160,7 +160,7 @@ These skills are relevant to social media performance analysis, audience researc
 ## Supporting Materials
 
 - [Original Team Repository](https://github.com/ywang204/USC-DSCI510-Final-Project)
-- [Final Project Report](./final-report.pdf)
+- [Final Project Report](./final_report.pdf)
 
 ---
 
